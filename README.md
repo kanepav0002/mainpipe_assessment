@@ -1,4 +1,4 @@
-<h1 align="center">🧠 MainPipe Pipeline </h1>
+<h1 align="center">MainPipe Pipeline </h1>
 
 <p align="center">
   <em>An end-to-end data processing and analysis pipeline for the Maincode Take Home assessment.</em>
@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2>🧩 Overview</h2>
+<h2>Overview</h2>
 
 <p>
   To run this pipeline please download the Docker Image provided below 
@@ -36,7 +36,7 @@
 
 <hr>
 
-<h2>📦 Loading the Docker Image</h2>
+<h2>Loading the Docker Image</h2>
 
 <p>
   Once you’ve downloaded the Docker image file, load it into your local Docker environment using:
@@ -46,7 +46,7 @@
 
 <hr>
 
-<h2>🚀 Running the Pipeline</h2>
+<h2>Running the Pipeline</h2>
 
 <p>
   Open a terminal in the directory containing this repository and run one of the following commands depending on your setup.
@@ -66,7 +66,7 @@
 
 <hr>
 
-<h2>⏱️ Runtime and Outputs</h2>
+<h2>Runtime and Outputs</h2>
 
 <p>
   The full pipeline takes approximately <strong>4 hours</strong> to complete. 
